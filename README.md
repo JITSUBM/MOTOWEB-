@@ -75,3 +75,75 @@
 </footer>
 </body>
 </html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INDICE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: navy;
+            color: #000000;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: #000000;
+            padding: 10px;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #333;
+            text-decoration: none;
+        }
+        nav ul li a:hover {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>LAS MEJORES MARCAS SON=</h1><H2>  </H2>
+		</header>
+    <nav>
+        <ul>
+            <li><a href="PAGINA PRINCIPAL.html">INICIO
+            <li><a href="Harley-Davidson.html">Harley-Davidson
+			 <li><a href="HONDA.HTML">HONDA
+			  <li><a href="YAMAHA.html">YAMAHA
+			   <li><a href="DUCATI.html">DUCATI 
+			   </ul>
+    </nav>
+	<body>
+    <header> <CENTER><FONT COLOR=RED><h2>LOGOS</h2></FONT>
+                <FONT COLOR=BLACK><H2><a href="Harley-Davidson.html"><img width="200" height="200" src="E:\PROYECTOHTML\LOGOS\HARLEYLOGO.JPG" alt="Imagen de ejemplo" width="300"><a href="HONDA.html"><img width="200" height="200" src="E:\PROYECTOHTML\LOGOS\HONDAL.PNG" alt="Imagen de ejemplo" width="300"><a href="YAMAHA.html"><img width="200" height="200" src="E:\PROYECTOHTML\LOGOS\LOGOYAMA.JPG" alt="Imagen de ejemplo" width="300"><a href="DUCATI.html"><img width="200" height="200" src="E:\PROYECTOHTML\LOGOS\DUCATIL.PNG" alt="Imagen de ejemplo" width="300"> </H2></FONT></CENTER>
+           <H2>HISTORIA DE LA MOTO</H2>
+		   <H2><video src="E:\PROYECTOHTML\VIDEOS\HISTORIA DE LA MOTO.mp4" width="300" height="208" autoplay controls></video></H2>
+			</div>
+			  </header>
+            <div class="card">
+</body>
+</html>
+
